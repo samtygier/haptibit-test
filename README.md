@@ -1,3 +1,4 @@
+Small test program for the [HaptiBit](https://tuxie.tech/catalog/tuxietech-hapti-bit/) haptic (vibrating) feedback accessory for the Micro:bit. Shows how to control the motor either in digital mode (on or off) or analog mode (controllable power level).
 
 > Open this page at [https://samtygier.github.io/haptibit-test/](https://samtygier.github.io/haptibit-test/)
 
