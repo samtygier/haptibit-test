@@ -1,15 +1,18 @@
-Small test program for the [HaptiBit](https://tuxie.tech/catalog/tuxietech-hapti-bit/) haptic (vibrating) feedback accessory for the Micro:bit. Shows how to control the motor either in digital mode (on or off) or analog mode (controllable power level).
+Small test program for the [HaptiBit](https://tuxie.tech/catalog/tuxietech-hapti-bit/) haptic (vibrating) feedback accessory for the Micro:bit.
+
+It uses the [haptibit extension](https://github.com/tuxie-tech/pxt-haptibit).
+
+It lets you cycle through the available effects with the B button and press A to play them
+
+1) String click
+2) Sharp click
+3) Soft bump
+4) Double click
+5) Triple click
+6) Soft fuzz
+7) Strong buzz
 
 > Open this page at [https://samtygier.github.io/haptibit-test/](https://samtygier.github.io/haptibit-test/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/samtygier/haptibit-test** and import
 
 ## Edit this project
 
